@@ -10,3 +10,5 @@
 
 
 4) git commit -m "message"--------for adding files to local repository
+
+5) add something
